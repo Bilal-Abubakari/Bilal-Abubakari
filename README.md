@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Bilal Abubakari<br>👀 I’m interested in PHP, JavaScript,  Python<br>🌱 I’m currently learning Java - Springboot<br>💞️ I’m looking to collaborate on any project relating to my interest<br>📫 How to reach me abubakaribilal99@gmail.com_
+👋 Hi, I’m Bilal Abubakari<br>👀 I’m interested in JavaScript, TypeScript, PHP,  Python<br>🌱 I’m currently learning Java - Springboot<br>💞️ I’m looking to collaborate on any project relating to my interest<br>📫 How to reach me abubakaribilal99@gmail.com_
 
 
 ## 🌐 Socials:
